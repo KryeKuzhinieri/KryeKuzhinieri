@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<KryeKuzhinieri>&theme=<THEME_NAME>" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KryeKuzhinieri)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KryeKuzhinieri)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
