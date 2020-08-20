@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a passionate easygoing person that gets energized meeting new people and likes contributing to the open source community.
 
 Here are some ideas to get you started:
 
