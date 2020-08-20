@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate easygoing person that gets energized meeting new people and likes contributing to the open source community. If you have a question for me, please contact me [here](eness.188@live.de)
+I am a passionate easygoing person that gets energized meeting new people and likes contributing to the open source community. If you have a question for me, please send me an email by clicking [here](eness.188@live.de). 
 
 Here are some ideas to get you started:
 
