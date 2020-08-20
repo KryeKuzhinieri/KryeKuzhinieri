@@ -10,9 +10,9 @@ Further, here are some **fun** facts about me:
 - :blue_heart: I am stubborn but with a big heart.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KryeKuzhinieri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KryeKuzhinieri&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KryeKuzhinieri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KryeKuzhinieri&hide=contribs,prs) 
+
 
 
 
