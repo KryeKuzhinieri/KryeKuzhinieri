@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate easygoing person that gets energized meeting new people and likes contributing to the open source community. I post my projects on Github because I learned programming using the free sources that I found online. Hence, if you have a question related to my repositories, please send me an email by clicking [here](mailto:eness.188@live.de). 
+I post my projects on Github because I learned programming using the open source services that I found online. Hence, if you have a question related to my repositories, please send me an email by clicking [here](mailto:eness.188@live.de). 
 
 Further, here are some **fun** facts about me:
 
