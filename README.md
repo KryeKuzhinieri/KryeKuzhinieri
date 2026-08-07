@@ -10,8 +10,5 @@ Further, here are some **fun** facts about me:
 - :runner: I love running long distances but not marathons. 
 
 
-I am available for hire or consultation. Let's collaborate to bring your project to life.
-
-
 
 
